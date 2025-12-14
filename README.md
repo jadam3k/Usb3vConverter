@@ -21,6 +21,6 @@ This project focuses on simplicity while providing stable 3.3V output from a USB
 <img width="1319" height="754" alt="image" src="https://github.com/user-attachments/assets/867ae6c7-e081-4d7e-8a50-cbfbbc21fe19" />
 
 
-The PCB layout is designed to be simple, making it easy to route and assemble even for beginners.  
+The PCB layout is designed to be simple ;)
 
 
