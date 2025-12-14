@@ -1,0 +1,8 @@
+Item Name,Quantity
+C1/C2 Radial Electrolytic Capacitor D5.0mm,2
+C3/C4/C5/C6 Radial Electrolytic Capacitor D6.3mm,4
+J1 USB Micro‑B Amphenol 10103594‑0001LF Horizontal,1
+J2 1x6 Pin Header 2.54mm Horizontal,1
+R1/R2 Axial Resistor DIN0207 L6.3mm,2
+U1 CH340N SOP‑8 (USB‑UART),1
+U2 AMS1117‑3.3 SOT‑223 (3.3V Regulator),1
