@@ -1,11 +1,10 @@
 # USB Mini to 3.3V Converter
 
 A simple USB mini to 3.3V converter: easy to build, reliable, and perfect for small electronics projects.
+<img width="788" height="652" alt="image" src="https://github.com/user-attachments/assets/a604742e-84b4-4b83-871d-ead149e307c5" />
 
-![Converter Image](https://via.placeholder.com/400x200?text=USB+3.3V+Converter+PCB)
-
-| Interested? [Follow the project!](#) | Check out other small converters too |
-|------------------------------------|-----------------------------------|
+| Interested? [Follow the project!](https://blueprint.hackclub.com/projects/2747?return_to=%2Fusers%2F2170)|
+|------------------------------------|
 
 This project focuses on simplicity while providing stable 3.3V output from a USB mini connector.  
 
@@ -18,23 +17,10 @@ This project focuses on simplicity while providing stable 3.3V output from a USB
 - Easy to solder and assemble
 - Suitable for powering small electronics or logic circuits  
 
-![PCB Layout](https://via.placeholder.com/400x200?text=PCB+Layout)
+<img width="467" height="581" alt="image" src="https://github.com/user-attachments/assets/97af0ae3-ca07-4986-b903-91dd644deb50" />
+<img width="1319" height="754" alt="image" src="https://github.com/user-attachments/assets/867ae6c7-e081-4d7e-8a50-cbfbbc21fe19" />
+
 
 The PCB layout is designed to be simple, making it easy to route and assemble even for beginners.  
 
-## Open Source
-This project is fully open-source. All schematics, PCB files, and documentation will be freely available for modification and reuse.  
 
-## Development Journal
-
-**First Steps** – 8 days ago (0.2 hours)  
-Focused on understanding how the converter will work. Project structure is simple with only three integrated circuits.  
-
-**Made Schematics** – 7 days ago (2.1 hours)  
-Created the schematic for the converter. Main modules are straightforward, making the design process easier.  
-
-**Routed the PCB** – 7 days ago (0.4 hours)  
-All traces are connected, layout is organized, power lines are properly sized. Final DRC shows no issues.  
-
-**Fixed PCB** – 7 days ago (0.3 hours)  
-Adjusted connectors so wires can be properly attached. Everything now works as expected.  
