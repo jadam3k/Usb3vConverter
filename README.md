@@ -17,7 +17,8 @@ This project focuses on simplicity while providing stable 3.3V output from a USB
 - Easy to solder and assemble
 - Suitable for powering small electronics or logic circuits  
 
-<img width="467" height="581" alt="image" src="https://github.com/user-attachments/assets/97af0ae3-ca07-4986-b903-91dd644deb50" />
+<img width="707" height="848" alt="image" src="https://github.com/user-attachments/assets/34f6ab92-57f0-4805-933e-94bed8bfce0b" />
+
 <img width="1319" height="754" alt="image" src="https://github.com/user-attachments/assets/867ae6c7-e081-4d7e-8a50-cbfbbc21fe19" />
 
 
